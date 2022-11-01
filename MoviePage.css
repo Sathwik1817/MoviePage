@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-containerMoviePage {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 100vh;
+    padding: 20px;
+    font-family: "Roboto";
+}
+
+.carouselMoviePage {
+    border-radius: 15px;
+}
+
+.h1MoviePage {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 5px;
+
+}
+
+.buttonMoviePage {
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    color: #ff8348;
+    background-color: white;
+    height: 30px;
+    width: 90px;
+    font-size: 11px;
+    margin: 5px;
+}
+
+.paraMoviePage {
+    color: white;
+    font-size: 10px;
+    margin: 5px;
+}
+
+.h2MoviePage {
+    color: white;
+    font-size: 15px;
+}
+
+.imagesMoviePage {
+    height: 100px;
+    width: 50px;
+    padding: 10px;
+}
